@@ -24,7 +24,7 @@ NeuralType is a modern typing speed test platform designed to help users improve
 
 ## 🌐 Live Website
 
-https://ankireddyrashmitha.github.io/neuraltype/
+https://ankireddyrashmitha.github.io/-https-ankireddyrashmitha.github.io-neuraltype-/
 
 ## 📊 Benefits
 
